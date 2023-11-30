@@ -1,11 +1,4 @@
-/* 
-Name: Mahmoud Mohammad
-Class: CIS 160 M01
-Due Date: November 16th, 2023
-Date: October 31st, 2023
-Program Name: PCCC Catering Project 
-This program has been created to produce a catering bill for a customer for catering services that are provided to them.
-*/
+// This program has been created to produce a catering bill for a customer based on catering services that are provided to them.
 
 #include <iostream> 
 #include <iomanip>  
